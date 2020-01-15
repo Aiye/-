@@ -1,0 +1,959 @@
+{
+    "tg": {
+        "235": [
+            {
+                "tid": "6_5359",
+                "name": "风雨冠·兵站",
+                "part": "head",
+                "img": "http://i1.fuimg.com/707973/ca4dc583b638a956.png",
+                "basis": {
+                    "physique": 82.1,
+                    "power": 0,
+                    "agile": 0,
+                    "magic": 0,
+                    "defense_physics": 68.5,
+                    "defense_spell": 0
+                },
+                "addition": {
+                    "power": 26.8,
+                    "agile": 0,
+                    "magic": 0,
+                    "hp": 0,
+                    "crit": 58.7,
+                    "rapidly": 42,
+                    "specialization": 0,
+                    "strength": 0,
+                    "focus": 0,
+                    "penetrate": 0,
+                    "crit_resistance": 0,
+                    "defense_physics": 0,
+                    "defense_spell": 0
+                }
+            },
+            {
+                "tid": "6_5360",
+                "name": "风雨冠·固御",
+                "part": "head",
+                "img": "http://i1.fuimg.com/707973/b835360cb28d07cb.png",
+                "basis": {
+                    "physique": 82.1,
+                    "power": 0,
+                    "agile": 0,
+                    "magic": 0,
+                    "defense_physics": 68.5,
+                    "defense_spell": 0
+                },
+                "addition": {
+                    "power": 26.8,
+                    "agile": 0,
+                    "magic": 0,
+                    "hp": 469.7,
+                    "crit": 0,
+                    "rapidly": 42,
+                    "specialization": 0,
+                    "strength": 0,
+                    "focus": 0,
+                    "penetrate": 0,
+                    "crit_resistance": 0,
+                    "defense_physics": 0,
+                    "defense_spell": 0
+                }
+            },
+            {
+                "tid": "7_2553",
+                "name": "风雨佩·固御",
+                "part": "adorn",
+                "img": "http://i1.fuimg.com/707973/07b134ac2f47f036.png",
+                "basis": {
+                    "physique": 73.7,
+                    "power": 31.6,
+                    "agile": 0,
+                    "magic": 0,
+                    "defense_physics": 0,
+                    "defense_spell": 0
+                },
+                "addition": {
+                    "power": 0,
+                    "agile": 0,
+                    "magic": 0,
+                    "hp": 0,
+                    "crit": 0,
+                    "rapidly": 40.6,
+                    "specialization": 0,
+                    "strength": 0,
+                    "focus": 0,
+                    "penetrate": 0,
+                    "crit_resistance": 46.5,
+                    "defense_physics": 7.3,
+                    "defense_spell": 7.3
+                }
+            },
+            {
+                "tid": "7_2552",
+                "name": "风雨佩·兵站",
+                "part": "adorn",
+                "img": "http://i1.fuimg.com/707973/005e689aa16c8022.png",
+                "basis": {
+                    "physique": 73.7,
+                    "power": 31.6,
+                    "agile": 0,
+                    "magic": 0,
+                    "defense_physics": 0,
+                    "defense_spell": 0
+                },
+                "addition": {
+                    "power": 0,
+                    "agile": 0,
+                    "magic": 0,
+                    "hp": 0,
+                    "crit": 46.5,
+                    "rapidly": 40.6,
+                    "specialization": 0,
+                    "strength": 29.1,
+                    "focus": 0,
+                    "penetrate": 0,
+                    "crit_resistance": 0,
+                    "defense_physics": 0,
+                    "defense_spell": 0
+                }
+            },
+            {
+                "tid": "7_2542",
+                "name": "风雨链·兵站",
+                "part": "necklace",
+                "img": "http://i1.fuimg.com/707973/e334e3bc5befc6b4.png",
+                "basis": {
+                    "physique": 88.5,
+                    "power": 37.9,
+                    "agile": 0,
+                    "magic": 0,
+                    "defense_physics": 0,
+                    "defense_spell": 0
+                },
+                "addition": {
+                    "power": 0,
+                    "agile": 0,
+                    "magic": 0,
+                    "hp": 0,
+                    "crit": 0,
+                    "rapidly": 0,
+                    "specialization": 51.6,
+                    "strength": 45.2,
+                    "focus": 32.3,
+                    "penetrate": 0,
+                    "crit_resistance": 0,
+                    "defense_physics": 0,
+                    "defense_spell": 0
+                }
+            },
+            {
+                "tid": "7_2543",
+                "name": "风雨链·固御",
+                "part": "necklace",
+                "img": "http://i1.fuimg.com/707973/4dd0d44b572fcbbe.png",
+                "basis": {
+                    "physique": 88.5,
+                    "power": 37.9,
+                    "agile": 0,
+                    "magic": 0,
+                    "defense_physics": 0,
+                    "defense_spell": 0
+                },
+                "addition": {
+                    "power": 0,
+                    "agile": 0,
+                    "magic": 0,
+                    "hp": 0,
+                    "crit": 0,
+                    "rapidly": 0,
+                    "specialization": 68.9,
+                    "strength": 0,
+                    "focus": 0,
+                    "penetrate": 32.3,
+                    "crit_resistance": 0,
+                    "defense_physics": 11.3,
+                    "defense_spell": 11.3
+                }
+            },
+            {
+                "tid": "6_5384",
+                "name": "风雨履·兵站",
+                "part": "shoes",
+                "img": "http://i1.fuimg.com/707973/23ca931f74d2b2ce.png",
+                "basis": {
+                    "physique": 82.1,
+                    "power": 0,
+                    "agile": 0,
+                    "magic": 0,
+                    "defense_physics": 0,
+                    "defense_spell": 68.5
+                },
+                "addition": {
+                    "power": 26.8,
+                    "agile": 0,
+                    "magic": 0,
+                    "hp": 0,
+                    "crit": 58.7,
+                    "rapidly": 0,
+                    "specialization": 0,
+                    "strength": 42,
+                    "focus": 0,
+                    "penetrate": 0,
+                    "crit_resistance": 0,
+                    "defense_physics": 0,
+                    "defense_spell": 0
+                }
+            },
+            {
+                "tid": "6_5385",
+                "name": "风雨履·固御",
+                "part": "shoes",
+                "img": "http://i1.fuimg.com/707973/4131e42d7b2e6f9d.png",
+                "basis": {
+                    "physique": 82.1,
+                    "power": 0,
+                    "agile": 0,
+                    "magic": 0,
+                    "defense_physics": 0,
+                    "defense_spell": 68.5
+                },
+                "addition": {
+                    "power": 26.8,
+                    "agile": 0,
+                    "magic": 0,
+                    "hp": 249.7,
+                    "crit": 0,
+                    "rapidly": 0,
+                    "specialization": 0,
+                    "strength": 0,
+                    "focus": 0,
+                    "penetrate": 0,
+                    "crit_resistance": 0,
+                    "defense_physics": 10.5,
+                    "defense_spell": 10.5
+                }
+            }
+        ],
+        "240": [
+            {
+                "tid": "7_2418",
+                "name": "梦涯戒·镇魂",
+                "part": "ring",
+                "img": "http://i1.fuimg.com/707973/2f2585c31197f5c4.png",
+                "basis": {
+                    "physique": 62.3,
+                    "power": 26.7
+                },
+                "addition_d": {
+                    "crit": 42.5,
+                    "rapidly": 26.6,
+                    "strength": 37.2
+                },
+                "addition_t": {
+                    "rapidly": 26.6,
+                    "crit_resistance": 42.5,
+                    "defense_physics": 9.3,
+                    "defense_spell": 9.3
+                }
+            },
+            {
+                "tid": "7_2433",
+                "name": "天涯戒·镇魂",
+                "part": "ring",
+                "img": "http://i1.fuimg.com/707973/68e3f178086f7296.png",
+                "basis": {
+                    "physique": 62.3,
+                    "power": 26.7
+                },
+                "addition_d": {
+                    "crit": 37.2,
+                    "specialization": 26.6,
+                    "strength": 42.5
+                },
+                "addition_t": {
+                    "hp": 297.6,
+                    "specialization": 35.5,
+                    "defense_physics": 10.7,
+                    "defense_spell": 10.7
+                }
+            },
+            {
+                "tid": "6_4989",
+                "name": "梦涯裤·镇魂",
+                "part": "pants",
+                "img": "http://i1.fuimg.com/707973/a3043eb69902c4cc.png",
+                "basis": {
+                    "physique": 100.1,
+                    "defense_physics": 83.4
+                },
+                "addition_d": {
+                    "power": 31.9,
+                    "crit": 49.8,
+                    "strength": 69.7
+                },
+                "addition_t": {
+                    "power": 31.9,
+                    "crit_resistance": 49.8,
+                    "defense_physics": 17.5,
+                    "defense_spell": 17.5
+                }
+            },
+            {
+                "tid": "6_5019",
+                "name": "天涯裤·镇魂",
+                "part": "pants",
+                "img": "http://i1.fuimg.com/707973/df8f072293a68a5a.png",
+                "basis": {
+                    "physique": 100.1,
+                    "defense_physics": 83.4
+                },
+                "addition_d": {
+                    "power": 31.9,
+                    "specialization": 49.8,
+                    "strength": 69.7
+                },
+                "addition_t": {
+                    "power": 31.9,
+                    "specialization": 66.4,
+                    "defense_physics": 17.5,
+                    "defense_spell": 17.5
+                }
+            },
+            {
+                "tid": "7_2423",
+                "name": "梦涯佩·镇魂",
+                "part": "adorn",
+                "img": "http://i1.fuimg.com/707973/16f1e2d5b6ac9c03.png",
+                "basis": {
+                    "physique": 77.8,
+                    "power": 33.4
+                },
+                "addition": {
+                    "power": 0,
+                    "agile": 0,
+                    "magic": 0,
+                    "hp": 0,
+                    "crit": 0,
+                    "rapidly": 0,
+                    "specialization": 0,
+                    "strength": 0,
+                    "focus": 0,
+                    "penetrate": 0,
+                    "crit_resistance": 0,
+                    "defense_physics": 0,
+                    "defense_spell": 0
+                }
+            },
+            {
+                "tid": "",
+                "name": "·镇魂",
+                "part": "",
+                "img": "",
+                "basis": {
+                    "physique": 0,
+                    "power": 0,
+                    "agile": 0,
+                    "magic": 0,
+                    "defense_physics": 0,
+                    "defense_spell": 0
+                },
+                "addition": {
+                    "power": 0,
+                    "agile": 0,
+                    "magic": 0,
+                    "hp": 0,
+                    "crit": 0,
+                    "rapidly": 0,
+                    "specialization": 0,
+                    "strength": 0,
+                    "focus": 0,
+                    "penetrate": 0,
+                    "crit_resistance": 0,
+                    "defense_physics": 0,
+                    "defense_spell": 0
+                }
+            },
+            {
+                "tid": "",
+                "name": "·镇魂",
+                "part": "",
+                "img": "",
+                "basis": {
+                    "physique": 0,
+                    "power": 0,
+                    "agile": 0,
+                    "magic": 0,
+                    "defense_physics": 0,
+                    "defense_spell": 0
+                },
+                "addition": {
+                    "power": 0,
+                    "agile": 0,
+                    "magic": 0,
+                    "hp": 0,
+                    "crit": 0,
+                    "rapidly": 0,
+                    "specialization": 0,
+                    "strength": 0,
+                    "focus": 0,
+                    "penetrate": 0,
+                    "crit_resistance": 0,
+                    "defense_physics": 0,
+                    "defense_spell": 0
+                }
+            },
+            {
+                "tid": "",
+                "name": "·镇魂",
+                "part": "",
+                "img": "",
+                "basis": {
+                    "physique": 0,
+                    "power": 0,
+                    "agile": 0,
+                    "magic": 0,
+                    "defense_physics": 0,
+                    "defense_spell": 0
+                },
+                "addition": {
+                    "power": 0,
+                    "agile": 0,
+                    "magic": 0,
+                    "hp": 0,
+                    "crit": 0,
+                    "rapidly": 0,
+                    "specialization": 0,
+                    "strength": 0,
+                    "focus": 0,
+                    "penetrate": 0,
+                    "crit_resistance": 0,
+                    "defense_physics": 0,
+                    "defense_spell": 0
+                }
+            },
+            {
+                "tid": "",
+                "name": "·镇魂",
+                "part": "",
+                "img": "",
+                "basis": {
+                    "physique": 0,
+                    "power": 0,
+                    "agile": 0,
+                    "magic": 0,
+                    "defense_physics": 0,
+                    "defense_spell": 0
+                },
+                "addition": {
+                    "power": 0,
+                    "agile": 0,
+                    "magic": 0,
+                    "hp": 0,
+                    "crit": 0,
+                    "rapidly": 0,
+                    "specialization": 0,
+                    "strength": 0,
+                    "focus": 0,
+                    "penetrate": 0,
+                    "crit_resistance": 0,
+                    "defense_physics": 0,
+                    "defense_spell": 0
+                }
+            },
+            {
+                "tid": "",
+                "name": "·镇魂",
+                "part": "",
+                "img": "",
+                "basis": {
+                    "physique": 0,
+                    "power": 0,
+                    "agile": 0,
+                    "magic": 0,
+                    "defense_physics": 0,
+                    "defense_spell": 0
+                },
+                "addition": {
+                    "power": 0,
+                    "agile": 0,
+                    "magic": 0,
+                    "hp": 0,
+                    "crit": 0,
+                    "rapidly": 0,
+                    "specialization": 0,
+                    "strength": 0,
+                    "focus": 0,
+                    "penetrate": 0,
+                    "crit_resistance": 0,
+                    "defense_physics": 0,
+                    "defense_spell": 0
+                }
+            },
+            {
+                "tid": "",
+                "name": "·镇魂",
+                "part": "",
+                "img": "",
+                "basis": {
+                    "physique": 0,
+                    "power": 0,
+                    "agile": 0,
+                    "magic": 0,
+                    "defense_physics": 0,
+                    "defense_spell": 0
+                },
+                "addition": {
+                    "power": 0,
+                    "agile": 0,
+                    "magic": 0,
+                    "hp": 0,
+                    "crit": 0,
+                    "rapidly": 0,
+                    "specialization": 0,
+                    "strength": 0,
+                    "focus": 0,
+                    "penetrate": 0,
+                    "crit_resistance": 0,
+                    "defense_physics": 0,
+                    "defense_spell": 0
+                }
+            },
+            {
+                "tid": "",
+                "name": "·镇魂",
+                "part": "",
+                "img": "",
+                "basis": {
+                    "physique": 0,
+                    "power": 0,
+                    "agile": 0,
+                    "magic": 0,
+                    "defense_physics": 0,
+                    "defense_spell": 0
+                },
+                "addition": {
+                    "power": 0,
+                    "agile": 0,
+                    "magic": 0,
+                    "hp": 0,
+                    "crit": 0,
+                    "rapidly": 0,
+                    "specialization": 0,
+                    "strength": 0,
+                    "focus": 0,
+                    "penetrate": 0,
+                    "crit_resistance": 0,
+                    "defense_physics": 0,
+                    "defense_spell": 0
+                }
+            },
+            {
+                "tid": "",
+                "name": "·镇魂",
+                "part": "",
+                "img": "",
+                "basis": {
+                    "physique": 0,
+                    "power": 0,
+                    "agile": 0,
+                    "magic": 0,
+                    "defense_physics": 0,
+                    "defense_spell": 0
+                },
+                "addition": {
+                    "power": 0,
+                    "agile": 0,
+                    "magic": 0,
+                    "hp": 0,
+                    "crit": 0,
+                    "rapidly": 0,
+                    "specialization": 0,
+                    "strength": 0,
+                    "focus": 0,
+                    "penetrate": 0,
+                    "crit_resistance": 0,
+                    "defense_physics": 0,
+                    "defense_spell": 0
+                }
+            },
+            {
+                "tid": "",
+                "name": "·镇魂",
+                "part": "",
+                "img": "",
+                "basis": {
+                    "physique": 0,
+                    "power": 0,
+                    "agile": 0,
+                    "magic": 0,
+                    "defense_physics": 0,
+                    "defense_spell": 0
+                },
+                "addition": {
+                    "power": 0,
+                    "agile": 0,
+                    "magic": 0,
+                    "hp": 0,
+                    "crit": 0,
+                    "rapidly": 0,
+                    "specialization": 0,
+                    "strength": 0,
+                    "focus": 0,
+                    "penetrate": 0,
+                    "crit_resistance": 0,
+                    "defense_physics": 0,
+                    "defense_spell": 0
+                }
+            },
+            {
+                "tid": "",
+                "name": "·镇魂",
+                "part": "",
+                "img": "",
+                "basis": {
+                    "physique": 0,
+                    "power": 0,
+                    "agile": 0,
+                    "magic": 0,
+                    "defense_physics": 0,
+                    "defense_spell": 0
+                },
+                "addition": {
+                    "power": 0,
+                    "agile": 0,
+                    "magic": 0,
+                    "hp": 0,
+                    "crit": 0,
+                    "rapidly": 0,
+                    "specialization": 0,
+                    "strength": 0,
+                    "focus": 0,
+                    "penetrate": 0,
+                    "crit_resistance": 0,
+                    "defense_physics": 0,
+                    "defense_spell": 0
+                }
+            },
+            {
+                "tid": "",
+                "name": "·镇魂",
+                "part": "",
+                "img": "",
+                "basis": {
+                    "physique": 0,
+                    "power": 0,
+                    "agile": 0,
+                    "magic": 0,
+                    "defense_physics": 0,
+                    "defense_spell": 0
+                },
+                "addition": {
+                    "power": 0,
+                    "agile": 0,
+                    "magic": 0,
+                    "hp": 0,
+                    "crit": 0,
+                    "rapidly": 0,
+                    "specialization": 0,
+                    "strength": 0,
+                    "focus": 0,
+                    "penetrate": 0,
+                    "crit_resistance": 0,
+                    "defense_physics": 0,
+                    "defense_spell": 0
+                }
+            },
+            {
+                "tid": "",
+                "name": "·镇魂",
+                "part": "",
+                "img": "",
+                "basis": {
+                    "physique": 0,
+                    "power": 0,
+                    "agile": 0,
+                    "magic": 0,
+                    "defense_physics": 0,
+                    "defense_spell": 0
+                },
+                "addition": {
+                    "power": 0,
+                    "agile": 0,
+                    "magic": 0,
+                    "hp": 0,
+                    "crit": 0,
+                    "rapidly": 0,
+                    "specialization": 0,
+                    "strength": 0,
+                    "focus": 0,
+                    "penetrate": 0,
+                    "crit_resistance": 0,
+                    "defense_physics": 0,
+                    "defense_spell": 0
+                }
+            },
+            {
+                "tid": "",
+                "name": "·镇魂",
+                "part": "",
+                "img": "",
+                "basis": {
+                    "physique": 0,
+                    "power": 0,
+                    "agile": 0,
+                    "magic": 0,
+                    "defense_physics": 0,
+                    "defense_spell": 0
+                },
+                "addition": {
+                    "power": 0,
+                    "agile": 0,
+                    "magic": 0,
+                    "hp": 0,
+                    "crit": 0,
+                    "rapidly": 0,
+                    "specialization": 0,
+                    "strength": 0,
+                    "focus": 0,
+                    "penetrate": 0,
+                    "crit_resistance": 0,
+                    "defense_physics": 0,
+                    "defense_spell": 0
+                }
+            },
+            {
+                "tid": "",
+                "name": "·镇魂",
+                "part": "",
+                "img": "",
+                "basis": {
+                    "physique": 0,
+                    "power": 0,
+                    "agile": 0,
+                    "magic": 0,
+                    "defense_physics": 0,
+                    "defense_spell": 0
+                },
+                "addition": {
+                    "power": 0,
+                    "agile": 0,
+                    "magic": 0,
+                    "hp": 0,
+                    "crit": 0,
+                    "rapidly": 0,
+                    "specialization": 0,
+                    "strength": 0,
+                    "focus": 0,
+                    "penetrate": 0,
+                    "crit_resistance": 0,
+                    "defense_physics": 0,
+                    "defense_spell": 0
+                }
+            },
+            {
+                "tid": "",
+                "name": "·镇魂",
+                "part": "",
+                "img": "",
+                "basis": {
+                    "physique": 0,
+                    "power": 0,
+                    "agile": 0,
+                    "magic": 0,
+                    "defense_physics": 0,
+                    "defense_spell": 0
+                },
+                "addition": {
+                    "power": 0,
+                    "agile": 0,
+                    "magic": 0,
+                    "hp": 0,
+                    "crit": 0,
+                    "rapidly": 0,
+                    "specialization": 0,
+                    "strength": 0,
+                    "focus": 0,
+                    "penetrate": 0,
+                    "crit_resistance": 0,
+                    "defense_physics": 0,
+                    "defense_spell": 0
+                }
+            },
+            {
+                "tid": "",
+                "name": "·镇魂",
+                "part": "",
+                "img": "",
+                "basis": {
+                    "physique": 0,
+                    "power": 0,
+                    "agile": 0,
+                    "magic": 0,
+                    "defense_physics": 0,
+                    "defense_spell": 0
+                },
+                "addition": {
+                    "power": 0,
+                    "agile": 0,
+                    "magic": 0,
+                    "hp": 0,
+                    "crit": 0,
+                    "rapidly": 0,
+                    "specialization": 0,
+                    "strength": 0,
+                    "focus": 0,
+                    "penetrate": 0,
+                    "crit_resistance": 0,
+                    "defense_physics": 0,
+                    "defense_spell": 0
+                }
+            },
+            {
+                "tid": "",
+                "name": "·镇魂",
+                "part": "",
+                "img": "",
+                "basis": {
+                    "physique": 0,
+                    "power": 0,
+                    "agile": 0,
+                    "magic": 0,
+                    "defense_physics": 0,
+                    "defense_spell": 0
+                },
+                "addition": {
+                    "power": 0,
+                    "agile": 0,
+                    "magic": 0,
+                    "hp": 0,
+                    "crit": 0,
+                    "rapidly": 0,
+                    "specialization": 0,
+                    "strength": 0,
+                    "focus": 0,
+                    "penetrate": 0,
+                    "crit_resistance": 0,
+                    "defense_physics": 0,
+                    "defense_spell": 0
+                }
+            },
+            {
+                "tid": "",
+                "name": "·镇魂",
+                "part": "",
+                "img": "",
+                "basis": {
+                    "physique": 0,
+                    "power": 0,
+                    "agile": 0,
+                    "magic": 0,
+                    "defense_physics": 0,
+                    "defense_spell": 0
+                },
+                "addition": {
+                    "power": 0,
+                    "agile": 0,
+                    "magic": 0,
+                    "hp": 0,
+                    "crit": 0,
+                    "rapidly": 0,
+                    "specialization": 0,
+                    "strength": 0,
+                    "focus": 0,
+                    "penetrate": 0,
+                    "crit_resistance": 0,
+                    "defense_physics": 0,
+                    "defense_spell": 0
+                }
+            },
+            {
+                "tid": "",
+                "name": "·镇魂",
+                "part": "",
+                "img": "",
+                "basis": {
+                    "physique": 0,
+                    "power": 0,
+                    "agile": 0,
+                    "magic": 0,
+                    "defense_physics": 0,
+                    "defense_spell": 0
+                },
+                "addition": {
+                    "power": 0,
+                    "agile": 0,
+                    "magic": 0,
+                    "hp": 0,
+                    "crit": 0,
+                    "rapidly": 0,
+                    "specialization": 0,
+                    "strength": 0,
+                    "focus": 0,
+                    "penetrate": 0,
+                    "crit_resistance": 0,
+                    "defense_physics": 0,
+                    "defense_spell": 0
+                }
+            },
+            {
+                "tid": "",
+                "name": "·镇魂",
+                "part": "",
+                "img": "",
+                "basis": {
+                    "physique": 0,
+                    "power": 0,
+                    "agile": 0,
+                    "magic": 0,
+                    "defense_physics": 0,
+                    "defense_spell": 0
+                },
+                "addition": {
+                    "power": 0,
+                    "agile": 0,
+                    "magic": 0,
+                    "hp": 0,
+                    "crit": 0,
+                    "rapidly": 0,
+                    "specialization": 0,
+                    "strength": 0,
+                    "focus": 0,
+                    "penetrate": 0,
+                    "crit_resistance": 0,
+                    "defense_physics": 0,
+                    "defense_spell": 0
+                }
+            },
+            {
+                "tid": "",
+                "name": "·镇魂",
+                "part": "",
+                "img": "",
+                "basis": {
+                    "physique": 0,
+                    "power": 0,
+                    "agile": 0,
+                    "magic": 0,
+                    "defense_physics": 0,
+                    "defense_spell": 0
+                },
+                "addition": {
+                    "power": 0,
+                    "agile": 0,
+                    "magic": 0,
+                    "hp": 0,
+                    "crit": 0,
+                    "rapidly": 0,
+                    "specialization": 0,
+                    "strength": 0,
+                    "focus": 0,
+                    "penetrate": 0,
+                    "crit_resistance": 0,
+                    "defense_physics": 0,
+                    "defense_spell": 0
+                }
+            }
+        ],
+        "255": []
+    }
+}
